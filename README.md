@@ -1,2 +1,4 @@
 # my_new_journey
-Author - Naresh Chaudhary
+Author - Naresh Chaudhary(devloper)
+<br>
+
